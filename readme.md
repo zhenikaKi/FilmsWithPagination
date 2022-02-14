@@ -4,3 +4,13 @@
 ---
 
 - ***Урок 02.*** Вопросы по Java
+
+--- 
+### Стек
+- Kotlin
+- Cicerone
+- Coroutines
+- Room
+- Koin
+- Gson
+- Retrofit
