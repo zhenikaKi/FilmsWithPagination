@@ -14,3 +14,4 @@
 - Koin
 - Gson
 - Retrofit
+- LiveData, ViewModel
