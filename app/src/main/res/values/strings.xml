@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">Films With Pagination</string>
+
+    <!-- главный экран -->
+    <string name="page_prev"><![CDATA[<<]]></string>
+    <string name="page_next"><![CDATA[>>]]></string>
+
+    <!-- экран с описанием фильма -->
+    <string name="release_title">Дата релиза:</string>
+    <string name="popularity_title">Популярность:</string>
 </resources>

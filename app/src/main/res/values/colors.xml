@@ -7,4 +7,11 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+
+    <color name="cardBackground">#F1F1F1</color> <!-- цвет фона карточки с фильмом -->
+    <color name="filmInfoBackground">#E4F1F1F1</color> <!-- цвет фона для описания фильма -->
+    <color name="popularityBackground">#BEF8F423</color> <!-- цвет фона для популярности фильма -->
+    <color name="popularityLine">#C4DCD821</color> <!-- цвет линии для популярности фильма -->
+    <color name="gradientStart">#00F1F1F1</color> <!-- начальный цвет градиента для нижней части карточки с фильмом (должен совпадать с цветом фона, но быть прозрачным) -->
+    <color name="gradientEnd">#F1F1F1</color> <!-- конечный цвет градиента для нижней части карточки с фильмом (должен совпадать с цветом фона) -->
 </resources>

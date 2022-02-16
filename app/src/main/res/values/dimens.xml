@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="zero_size">0dp</dimen>
+    <dimen name="frame_padding">10dp</dimen>
+    <dimen name="margin">4dp</dimen>
+    <dimen name="item_padding">6dp</dimen>
+    <dimen name="indicator_size">2dp</dimen>
+    <dimen name="indicator_selected_size">4dp</dimen>
+    <dimen name="card_corner_radius">10dp</dimen>
+    <dimen name="card_elevation">5dp</dimen>
+    <dimen name="popularity_background_radius">2dp</dimen>
+    <dimen name="popularity_line_background">1dip</dimen>
+    <dimen name="popularity_padding">2dp</dimen>
+    <dimen name="film_popularity_size">12sp</dimen>
+    <dimen name="film_text_size">14sp</dimen>
+    <dimen name="film_detail_text_size">16sp</dimen>
+    <dimen name="film_gradient_height">42dp</dimen>
+</resources>
