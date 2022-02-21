@@ -10,8 +10,8 @@
 - Kotlin
 - Cicerone
 - Coroutines
-- Room
 - Koin
 - Gson
+- Coil
 - Retrofit
 - LiveData, ViewModel
